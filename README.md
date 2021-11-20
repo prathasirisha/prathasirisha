@@ -2,7 +2,7 @@
 ## About Me
 
 * Programming in Java since 2011
-* Committer on [Eclipse Collections] https://github.com/eclipse/eclipse-collections, an Open Source Java Collections Library
+* Committer on [Eclipse Collections](https://github.com/eclipse/eclipse-collections), an Open Source Java Collections Library
 * [Pittsburgh Java User Group](https://twitter.com/PghJavaMeetup) Leader
 * Followe me at [Blog](https://pratha-sirisha.medium.com/) / [Twitter](https://twitter.com/sirishapratha) 
 
@@ -14,7 +14,6 @@
 <p>
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathasirisha&show_icons=true&locale=en" align = "center"/>
 </p>
-
 
 ## Presentations
 * 2021 Jetbrains Live Stream - [Make InttelliJ IDEA your own](https://www.youtube.com/watch?v=cAwH_DbFrfw&ab_channel=IntelliJIDEAbyJetBrains)
