@@ -4,7 +4,7 @@
 * Programming in Java since 2011
 * Committer on [Eclipse Collections](https://github.com/eclipse/eclipse-collections), an Open Source Java Collections Library
 * [Pittsburgh Java User Group](https://twitter.com/PghJavaMeetup) Leader
-* Followe me at [Blog](https://pratha-sirisha.medium.com/) / [Twitter](https://twitter.com/sirishapratha) 
+* Followe me on [Blog](https://pratha-sirisha.medium.com/) / [Twitter](https://twitter.com/sirishapratha) 
 
 ## GitHub stats
 <p>
