@@ -3,7 +3,7 @@
 
 * Programming in Java since 2011
 * Committer on [Eclipse Collections] https://github.com/eclipse/eclipse-collections, an Open Source Java Collections Library
-* [Pittsburgh Java User Group](https://www.meetup.com/The-Pittsburgh-Java-Meetup-Group/) Leader. Follow [@PghJavaMeetup](https://twitter.com/PghJavaMeetup). 
+* [Pittsburgh Java User Group](https://www.meetup.com/The-Pittsburgh-Java-Meetup-Group/) Leader. Follow [@PghJavaMeetup](https://twitter.com/PghJavaMeetup)
 * Followe me on: [Blog](https://pratha-sirisha.medium.com/) / [Twitter](https://twitter.com/sirishapratha) 
 
 ## GitHub stats
@@ -20,7 +20,3 @@
 * 2021 Jetbrains Live Stream - [Make InttelliJ IDEA your own](https://www.youtube.com/watch?v=cAwH_DbFrfw&ab_channel=IntelliJIDEAbyJetBrains)
     * Also presented at NYJavaSig, Kansas City JUG and Pittsburgh JUG in 2021
 * 2020 Chicago JUG - [Learn Java Features and Eclipse Collections APIs using Code Kata](https://www.youtube.com/watch?v=OPS-nnVZQqA&ab_channel=ChicagoJavaUsersGroup)
-
-
-
-
