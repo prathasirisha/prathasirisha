@@ -16,6 +16,6 @@
 </p>
 
 ## Presentations
-* 2021 Jetbrains Live Stream - [Make InttelliJ IDEA your own](https://www.youtube.com/watch?v=cAwH_DbFrfw&ab_channel=IntelliJIDEAbyJetBrains)
+* 2021 Jetbrains IntelliJ Live Stream - [Make InttelliJ IDEA your own](https://www.youtube.com/watch?v=cAwH_DbFrfw&ab_channel=IntelliJIDEAbyJetBrains)
     * Also presented at NYJavaSig, Kansas City JUG and Pittsburgh JUG in 2021
 * 2020 Chicago JUG - [Learn Java Features and Eclipse Collections APIs using Code Kata](https://www.youtube.com/watch?v=OPS-nnVZQqA&ab_channel=ChicagoJavaUsersGroup)
