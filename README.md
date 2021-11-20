@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there 👋 
+## About Me
 
-<!--
-**prathasirisha/prathasirisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Programming in Java since 2011
+* Committer on [Eclipse Collections] https://github.com/eclipse/eclipse-collections, an Open Source Java Collections Library. 
+* [Pittsburgh Java User Group](https://www.meetup.com/The-Pittsburgh-Java-Meetup-Group/) Leader. Follow [@PghJavaMeetup](https://twitter.com/PghJavaMeetup). 
+* Followe me on: [Blog](https://pratha-sirisha.medium.com/) / [Twitter](https://twitter.com/sirishapratha) 
 
-Here are some ideas to get you started:
+## GitHub stats
+<p>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=prathasirisha&count_private=true&show_icons=true" align = "center"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathasirisha&show_icons=true&locale=en" align = "center"/>
+</p>
+
+
+## Presentations
+* 2021 Jetbrains Live Stream - [Make InttelliJ IDEA your own](https://www.youtube.com/watch?v=cAwH_DbFrfw&ab_channel=IntelliJIDEAbyJetBrains)
+* 
+
+
+
+
